@@ -1,3 +1,3 @@
 import math
 import random
-print("Hello " + "world!")
+print("Hello " + "GIT")
